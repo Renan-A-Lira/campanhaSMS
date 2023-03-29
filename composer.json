@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jenssegers/blade": "^1.4",
+        "vlucas/phpdotenv": "^5.5",
+        "pecee/simple-router": "^5.1"
+    }
+}
